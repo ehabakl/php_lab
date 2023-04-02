@@ -6,7 +6,7 @@
 
 // echo str_replace("omar","ehab","im omar <br>");
 
-// echo str_word_count("Hope you are doning great ")."<br>";
+// echo str_word_count("how are you today ")."<br>";
 
 // echo strlen("ehab")."<br>";
 // //************************************************** 
